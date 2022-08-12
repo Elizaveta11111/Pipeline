@@ -1,0 +1,10 @@
+
+INPUT_FILE_NAME = files\input.txt
+OUTPUT_FILE_NAME = files\output.txt
+NUMBER_OF_WORKERS = 3
+WORKER 1 = Reader
+WORKER 2 = Executor
+WORKER 3 = Writer
+CONFIG 1 = configs\reader.txt
+CONFIG 2 = configs\encode.txt
+CONFIG 3 = configs\writer.txt

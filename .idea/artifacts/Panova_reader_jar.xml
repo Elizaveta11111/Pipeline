@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Panova_reader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Panova_reader_jar</output-path>
+    <root id="archive" name="Panova_reader.jar">
+      <element id="module-output" name="reader" />
+      <element id="module-output" name="parser" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/libs/interfaces.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

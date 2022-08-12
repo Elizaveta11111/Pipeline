@@ -1,0 +1,2 @@
+TABLE_FILE_NAME = executor\table.txt
+MODE = ENCODE
